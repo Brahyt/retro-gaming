@@ -1,34 +1,49 @@
 # Best coop games
 ## SNES
-- Wild Guns
-- Zombies Ate My Neighbours
-- Sunset Riders
-- TMNT Turtles in time
-- Super Smash TV
+- Battletoads In Battlemaniacs
 - Contra 3
 - DKC 1,2,3
-- Legend of Mystical Ninja
-- Kirby Superstar
-- Secret Of Mana
-- The Peacekeepers
-- Battletoads In Battlemaniacs
-- Lost Vikings
+- Final Fight 3
+- Ghost Chaser Densei
+- Ghoul Patrol (actual sequel to Zombies Ate My Neighbors)
 - Goof Troop
-- Knights of the Round
-- Secret of Evermore (very similar to Secret of Mana)
 - Joe & Mac 2: Lost in the Tropics
+- King of Dragons
+- King of Monsters I/II
+- Kirby Superstar
+- Knights of the Round
+- Legend of Mystical Ninja
+- Lost Vikings
+- NBA Jam
 - Pocky & Rocky
 - Pocky & Rocky 2
-- Super Ninja Boy
-- Ghoul Patrol (actual sequel to Zombies Ate My Neighbors)
-- Total Carnage
-- NBA Jam
-- Top Gear 2
-- Return of Double Dragon
-- Ghost Chaser Densei
-- Final Fight 3
-- Super Bomberman 5
 - Power Rangers: The Movie
-- King of Dragons
-- King of Monsters I
-- King of Monsters II
+- Return of Double Dragon
+- Secret Of Mana
+- Secret of Evermore (very similar to Secret of Mana)
+- Sunset Riders
+- Super Bomberman 5
+- Super Ninja Boy
+- Super Smash TV
+- TMNT Turtles in time
+- The Peacekeepers
+- Top Gear 2
+- Total Carnage
+- Wild Guns
+- Zombies Ate My Neighbours
+
+# NES
+- Battletoads/Battletoads & Double Dragon
+- Bomberman 1/2
+- Bubble Bobble
+- Chip N Dales Rescue Rangers 1/2
+- Contra/Contra Force
+- Double Dragon I & III
+- Gauntlet 1/2
+- Jackal
+- Life Force
+- River City Ransom
+- Snow Bros
+- Spy vs Spy
+- TMNT 1/2/3
+- Tecmo Super Bowl
