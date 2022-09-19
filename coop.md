@@ -33,17 +33,23 @@
 - Zombies Ate My Neighbours
 
 # NES
+- Balloon Fight
 - Battletoads/Battletoads & Double Dragon
 - Bomberman 1/2
 - Bubble Bobble
 - Chip N Dales Rescue Rangers 1/2
 - Contra/Contra Force
+- Desert Commander
 - Double Dragon I & III
 - Gauntlet 1/2
+- Guerrilla War
 - Jackal
+- Kung-Fu Heroes
+- Legendary Wings
 - Life Force
 - River City Ransom
 - Snow Bros
 - Spy vs Spy
 - TMNT 1/2/3
 - Tecmo Super Bowl
+- Tengen Tetris
